@@ -1,10 +1,10 @@
 # Custom printf function
 
-This project is a part of the ALX Software Engineering program, aimed at creating a custom version of the standard C library function "printf". The goal of this project is to implement a subset of the functionality provided by the original "printf" function, including formatting strings, integers, and floating-point numbers.
+This project aimes at creating a custom version of the standard C library function "printf". The goal of this project is to implement a subset of the functionality provided by the original "printf" function, including formatting strings, integers, and floating-point numbers.
 
 ## Usage
 
-To use the custom "printf" function, simply include the "holberton.h" header file in your C program and call the "printf" function with the desired formatting options. For example:
+To use the custom "printf" function, simply include the "main.h" header file in your C program and call the "printf" function with the desired formatting options. For example:
 
 ```c
 #include "spoutnikrs.h"
